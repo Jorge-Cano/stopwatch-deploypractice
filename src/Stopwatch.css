@@ -1,0 +1,43 @@
+@import url(http://fonts.googleapis.com/css?family=Josefin+Slab);
+
+.controls {
+  margin: 50px;
+  text-align: center;
+}
+
+h1 {
+  font-family: Josefin Slab;
+  font-size: 200px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-size: 65px;
+}
+
+h2 span {
+  background: rgba(180, 15, 15, .7);
+  padding: 20px;
+  border-radius: 34px;
+  border: 1px solid black;
+  box-shadow: 2px 2px black;
+}
+
+button {
+  background: #4479BA;
+  color: #FFF;
+  font-family: Josefin Slab;
+  font-size: 50px;
+  text-align: center;
+  border: 1px solid black;
+  margin: 20px;
+  padding: 15px 25px;
+  border-radius: 10px;
+  box-shadow: 2px 2px black;
+}
+
+button:hover{
+  background: #356094;
+  transition: 1s;
+}
